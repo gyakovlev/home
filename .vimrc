@@ -25,3 +25,7 @@ if &background == "dark"
 endif
 	colorscheme macvim
 endif
+
+
+
+set dictionary+=~/.vim/wowlua.dict
